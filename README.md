@@ -1,6 +1,6 @@
 # BE623 Assignment 5
 
-**Name:**KRITHIKA RAJAGOPAL
+Name: KRITHIKA RAJAGOPAL
 
 ## Files Committed
 
